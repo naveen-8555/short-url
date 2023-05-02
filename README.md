@@ -11,7 +11,7 @@ server will run at http://localhost:8080/
 
 Angular JS code is inside client-angular directory you can start the app using
 
-npm serve <br>
+ng serve <br>
 app will run at http://localhost:4200/
 
 
